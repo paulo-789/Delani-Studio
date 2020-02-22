@@ -12,8 +12,13 @@ body{
 }
 .logo{
     color:white;
-    font-size: 40px;
 }
 .sss{
+    display: none;
+}
+.kkk{
+    display: none;
+}
+.bbb{
     display: none;
 }

@@ -15,7 +15,12 @@ $(".kkk").click(function(){
     $(this).hide();
     $("#ccc").show();
 })
-
-
-
-});
+$("#aaa").click(function(){
+    $(this).hide();
+    $(".bbb").show();
+})
+$(".bbb").click(function(){
+    $(this).hide();
+    $("#aaa").show();
+})
+})
