@@ -4,6 +4,7 @@
 .services{
     background-image: url('/assets/backgrounds/s_image.jpg');
     color: white;
+    opacity: unset;
 }
 .contacts{
     background-image: url('/assets/backgrounds/c_image.jpg');
@@ -42,4 +43,8 @@ color: white;
     padding: 30px;
     justify-content: space-evenly;
 
+}
+.sub{
+     align-items:center ;
+     padding: 16px 32px;
 }
