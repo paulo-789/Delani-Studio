@@ -38,3 +38,8 @@ color: white;
 .contacts{
     color: white;
 }
+ .portfolio{
+    padding: 30px;
+    justify-content: space-evenly;
+
+}
