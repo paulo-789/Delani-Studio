@@ -24,6 +24,17 @@ $(".bbb").click(function(){
     $("#aaa").show();
 })
 
+$("#submit").click(function(){
+  var Name=$("#name").val();
+  var Email=$("#email").val();
+  var Text=$("#message").val();
+if (Name==""&&Email==""&&Text==""){
+  alert("please fill the form corect details")
+}
+  else{
+   alert("hello" + Name + "we have recived your massage")
+  }
+})
 
 
 
