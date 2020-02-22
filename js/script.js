@@ -32,15 +32,7 @@ if (Name==""&&Email==""&&Text==""){
   alert("please fill the form corect details")
 }
   else{
-   alert("hello" + Name + "we have recived your massage")
+   alert("hello" + Name + "we  have recived your massage")
   }
 })
-
-
-
-
-
-
-
-
 })

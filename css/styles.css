@@ -23,3 +23,18 @@ body{
 .bbb{
     display: none;
 }
+#name{
+    background: transparent;
+color: white;
+}
+#email{
+    background: transparent;
+color: white;
+}
+#message{
+    background: transparent;
+    color: white;
+}
+.contacts{
+    color: white;
+}
