@@ -2,17 +2,17 @@ body{
     font-family: 'Lora', ;
 }
 .logo{
-    background-image: url('/assets/backgrounds/h_img.jpg');
+    background-image: url('/images/h_img.jpg');
     font-size: 30px;
     background-position: cover;
 }
 .services{
-    background-image: url('/assets/backgrounds/s_image.jpg');
+    background-image: url('/images/s_image.jpg');
     color: white;
     opacity: unset;
 }
 .contacts{
-    background-image: url('/assets/backgrounds/c_image.jpg');
+    background-image: url('/images/c_image.jpg');
 }
 body{
     text-align: center;
@@ -59,7 +59,7 @@ color: white;
      font-size: 20px;
      padding: right 30%;
 } 
-.overlay1 ,.overlay2, .overlay3, .overlay4 ,.overlay5, .overlay6, .overlay7, .overlay8 {
+ .overlay1 ,.overlay2, .overlay3, .overlay4 ,.overlay5, .overlay6, .overlay7, .overlay8 {
     display:none;
     background-color: white;
     opacity: 0.8;
@@ -67,36 +67,10 @@ color: white;
     font-size: 50px;
     height: 200px;
     width: 200px;
-     /* padding-top: 40%;  */
-    position: absolute;
+     position: absolute;
      top: 50%;
     left:50%; 
      transform: translate(-50%, -50%); 
     text-align: center;
-}
- #mg1{
-     height: 200px;
-     width: 200px; ;
- }
- #mg2{
-    height: 200px;
-    widows: 200px; ;
-} #mg3{
-    height: 200px;
-    widows: 200px; ;
-} #mg4{
-    height: 200px;
-    widows: 200px; ;
-} #mg5{
-    height: 200px;
-    widows: 200px; ;
-} #mg6{
-    height: 200px;
-    widows: 200px; ;
-} #mg7{
-    height: 200px;
-    widows: 200px; ;
-} #mg8{
-    height: 200px;
-    widows: 200px; ;
-}
+} 
+ 
