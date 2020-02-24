@@ -2,17 +2,17 @@ body{
     font-family: 'Lora', ;
 }
 .logo{
-    background-image: url('/images/h_img.jpg');
+    background-image: url('../images/h_img.jpg');
     font-size: 30px;
     background-position: cover;
 }
 .services{
-    background-image: url('/images/s_image.jpg');
+    background-image: url('../images/s_image.jpg');
     color: white;
     opacity: unset;
 }
 .contacts{
-    background-image: url('/images/c_image.jpg');
+    background-image: url('../images/c_image.jpg');
 }
 body{
     text-align: center;
