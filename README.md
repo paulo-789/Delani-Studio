@@ -30,6 +30,9 @@ Delani is all about commited people who are interactive. Our approach unifies de
 * HTML 5-For the structuring .
 * CSS-For styling the page.
 * JAVASCRIPT-for functionality
+* Bootrap-for styling 
+* jQuery-for farther functionality
+
 
 
 ### Behaviour Driven Development(BDD)
