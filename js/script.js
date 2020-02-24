@@ -75,6 +75,7 @@ $("#mg8").mouseleave(function(){
 $("#submit").click(function(){
   var Name=$("#name").val();
   var Email=$("#email").val();
+  var key='1502afa24976cda675f9061a291bea84-us4'
               var Text=$("#message").val();
             if (Name==""&&Email==""&&Text==""){
               alert("please go back and input the correct credentials!")
